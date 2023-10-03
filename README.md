@@ -8,6 +8,8 @@ O desafio será criar uma nova string.xml internacional (Ex: US), e fazer a alte
 e vai exibir um texto de acordo com o idioma que o smartphone ta configurado e trocar o texto sempre que necessário.
 
 ## 📷 Pictures
+![pt01](https://github.com/applephoria/MyFirstApp-DIO/assets/127143564/685e38c2-47ea-4f23-8796-06d3bba8f1d4)
+![pt01](https://github.com/applephoria/MyFirstApp-DIO/assets/127143564/03d07e18-e841-42ef-872a-29c735536ad6)
 
 
 
